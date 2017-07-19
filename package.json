@@ -15,5 +15,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://weinaisha.github.io/project-react/build"
+  "homepage": "https://weinaisha.github.io/todolist-demo/build"
 }
